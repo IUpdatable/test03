@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17956" start="node1" appversion="6.1.8">
+  <panorama id="node1" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node1" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="客厅" tags="" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-270.32" description="" id="Point01" url="{node2}" tilt="-7.11" title="阳台" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-92.18" description="简介" id="Point02" url="{node3}" tilt="-20.43" title="走廊" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node2" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="阳台" tags="阳台" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="92.31" description="" id="Point02" url="{node1}" tilt="-30.89" title="客厅" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node3" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="走廊" tags="走廊" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-0.32" description="" id="Point01" url="{node1}" tilt="-16.66" title="客厅" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-63.19" description="" id="Point02" url="{node9}" tilt="-2.24" title="主卧" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-77.47" description="" id="Point03" url="{node8}" tilt="-2.32" title="卫生间" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-120.29" description="" id="Point04" url="{node7}" tilt="-3.21" title="西北次卧" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-161.52" description="" id="Point05" url="{node5}" tilt="-17.32" title="餐厅" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-163.24" description="" id="Point06" url="{node6}" tilt="-4.03" title="厨房" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-254.19" description="" id="Point07" url="{node4}" tilt="-3.34" title="东北次卧" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node4" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="东北次卧" tags="东北次卧" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-243.3" description="" id="Point01" url="{node3}" tilt="-5.84" title="走廊" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node5" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="餐厅" tags="餐厅" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-268.57" description="" id="Point01" url="{node6}" tilt="-7.35" title="厨房" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-85.24" description="" id="Point02" url="{node3}" tilt="-29.91" title="走廊" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-78.01" description="" id="Point03" url="{node1}" tilt="-10.16" title="客厅" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-116.71" description="" id="Point04" url="{node9}" tilt="-2.18" title="主卧" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-130.95" description="" id="Point05" url="{node8}" tilt="-1.39" title="卫生间" skinid="ht_node"/>
+      <hotspot target="$fwd" pan="-165.25" description="" id="Point06" url="{node7}" tilt="-4.79" title="西北次卧" skinid="ht_node"/>
+      <hotspot target="" pan="-85.44" description="" id="Point07" url="{node2}" tilt="1.09" title="阳台" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node6" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="厨房" tags="厨房" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-84.44" description="" id="Point01" url="{node5}" tilt="-16.73" title="餐厅" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node7" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="西北次卧" tags="西北次卧" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-216.45" description="" id="Point01" url="{node5}" tilt="-6.32" title="餐厅" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node8" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="卫生间" tags="卫生间" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-97.57" description="" id="Point01" url="{node3}" tilt="-19.02" title="走廊" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" height="2500" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2500" levelbias="0.400">
+      <level height="2500" predecode="0" width="2500" preload="0"/>
+      <level height="1250" predecode="0" width="1250" preload="0"/>
+      <level height="625" predecode="0" width="625" preload="0"/>
+      <level height="312" predecode="1" width="312" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata nodeid="node9" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="主卧" tags="主卧" heading="0"/>
+    <hotspots wordwrap="1" height="0" width="180">
+      <label enabled="1" border="0" wordwrap="1" borderradius="1" backgroundalpha="1" height="0" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" textcolor="0x000000" background="0" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" pan="-122.4" description="" id="Point01" url="{node3}" tilt="-8.72" title="走廊" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" type="crossdissolve" blendtime="1" softedge="0" zoomin="0" zoomfov="20" zoomoutpause="1" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" contextprojections="0" dblclickfullscreen="0" invertcontrol="1" speedwheel="1" lockedwheel="0" rubberband="0" hideabout="1" lockedmouse="0" simulatemass="1" lockedkeyboard="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata nodeid="master" datetime="" info="" longitude="" description="" customnodeid="" copyright="" latitude="" comment="" author="" source="" title="" tags="" heading="0"/>
+  </masternode>
+</tour>
